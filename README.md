@@ -1,2 +1,4 @@
-# value-thinking
-way of thinking
+# 价值思维
+
+思考方式
+
